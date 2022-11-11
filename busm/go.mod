@@ -1,4 +1,4 @@
-module github.com/annettalekto/ipkEmulator
+module github.com/annettalekto/ipkEmulator/busm
 
 go 1.19
 
